@@ -24,7 +24,7 @@ draft: false
     color: "#fff", 
     cursor: "pointer",
     textDecoration: "none"}} 
-    href="https://mneylink.com/ModSkin1" target="_blank">Download mod skin 5vs5 bản 2 (update13.13 đọc file hướng dẫn trước khi dùng)
+    href="https://web1s.info/MOD5v5" target="_blank">Download mod skin 5vs5 (update13.13 đọc file hướng dẫn trước khi dùng)
     </a>
 </div>
 
@@ -36,7 +36,7 @@ draft: false
     color: "#fff", 
     cursor: "pointer",
     textDecoration: "none"}} 
-    href="https://mneylink.com/ModSkin1" target="_blank">Download mod skin TFT 13.13 free (không ban acc)
+    href="https://web1s.info/MTFT" target="_blank">Download mod skin TFT 13.13 free (không ban acc)
     </a>
 </div>
 </div>
