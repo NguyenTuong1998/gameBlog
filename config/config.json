@@ -1,0 +1,29 @@
+{
+  "site": {
+    "title": "Mod game",
+    "base_url": "/",
+    "favicon": "/images/duck.png",
+    "logo": "/images/ducklogo2.png",
+    "logo_width": "220",
+    "logo_height": "90",
+    "logo_text": "Duck Mod Game"
+  },
+
+  "settings": {
+    "pagination": 3,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2022 a theme by [themefisher](https://themefisher.com)"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Next Boilerplate"
+  }
+}

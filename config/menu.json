@@ -1,0 +1,54 @@
+{
+  "main": [
+    {
+      "name": "Trang chủ",
+      "url": "/"
+    },
+    {
+      "name": "Thông tin",
+      "url": "/about"
+    },
+    {
+      "name": "Liên hệ",
+      "url": "/contact"
+    },
+    {
+      "//name": "Pages",
+      "url": "",
+      "hasChildren": false,
+      "children": [
+        {
+          "name": "Authors",
+          "url": "/authors"
+        },
+        {
+          "name": "Categories",
+          "url": "/categories"
+        },
+        {
+          "name": "Tags",
+          "url": "/tags"
+        },
+        {
+          "name": "Elements",
+          "url": "/elements"
+        },
+        {
+          "name": "Privacy Policy",
+          "url": "/privacy-policy"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Thông tin",
+      "url": "/about"
+    },
+    {
+      "name": "Liên hệ",
+      "url": "/contact"
+    }
+    
+  ]
+}
