@@ -42,4 +42,8 @@ draft: false
 </div>
 
 
-## Hướng dẫn chi tiết tải và cài đặt
+## Hướng dẫn chi tiết tải và cài đặt 👇
+###
+<div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed/lPdYUKx6gfc' width="840" height="480" frameborder='0' allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
