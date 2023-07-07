@@ -1,6 +1,6 @@
 ---
-title: "Free Mod Skin Game Liên Minh Huyền Thoại - (LOL)"
-description: "meta description"
+title: "Mod Skin Game Liên Minh Huyền Thoại - (LOL)"
+description: "Mod Skin Game Liên Minh Huyền Thoại - (LOL)"
 date: 2023-07-05T05:00:00Z
 image: "/images/posts/lol.jpg"
 categories: ["art"]
