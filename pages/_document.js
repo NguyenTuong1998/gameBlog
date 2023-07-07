@@ -23,6 +23,7 @@ const Document = () => {
           media="(prefers-color-scheme: dark)"
           content="#000"
         />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8948874222142276" crossorigin="anonymous"></script>
       </Head>
       <body>
         <Main />

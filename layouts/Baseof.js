@@ -88,6 +88,7 @@ const Base = ({
           content={`${base_url}${image ? image : meta_image}`}
         />
         <meta name="twitter:card" content="summary_large_image" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8948874222142276" crossorigin="anonymous"></script>
       </Head>
       <Header />
       {/* main site */}
