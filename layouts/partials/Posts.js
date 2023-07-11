@@ -7,20 +7,28 @@ import Link from "next/link";
 const Posts = ({ posts, authors, className }) => {
   const { summary_length } = config.settings;
   return (
-    <div className={`row space-y-16 ${className}`}>
+    // <div className={`row space-y-16 ${className}`}>
+    <div>
+      {/* <div>
+        hihih
+      </div> */}
+      <div className={`row ${className}`}>
       {posts.map((post, i) => (
         <div
           key={`key-${i}`}
-          className={i === 0 ? "col-12" : "col-12 sm:col-6"}
+          className={"col-12 sm:col-6"}
         >
           {post.frontmatter.image && (
             <Image
-              className="rounded-lg"
+              className="rounded-lg mt-9"
               src={post.frontmatter.image}
               alt={post.frontmatter.title}
-              width={i === 0 ? "925" : "445"}
-              height={i === 0 ? "475" : "230"}
-              priority={i === 0 ? true : false}
+              // width={i === 0 ? "925" : "445"}
+              // height={i === 0 ? "475" : "230"}
+              // priority={i === 0 ? true : false}
+              width={"445"}
+              height={"230"}
+              priority={false}
             />
           )}
           <ul className="mt-4 mb-4 flex flex-wrap items-center space-x-3 text-text">
@@ -76,6 +84,7 @@ const Posts = ({ posts, authors, className }) => {
           </p>
         </div>
       ))}
+    </div>
     </div>
   );
 };

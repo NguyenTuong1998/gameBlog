@@ -10,8 +10,8 @@
   },
 
   "settings": {
-    "pagination": 3,
-    "summary_length": 200,
+    "pagination": 6,
+    "summary_length": 100,
     "blog_folder": "posts"
   },
 
@@ -23,7 +23,7 @@
 
   "metadata": {
     "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_image": "/images/duck.png",
+    "meta_description": "Phần mềm MOD SKIN LOL miễn phí giúp bạn thay trang phục tướng. Là phần mềm hoàn toàn miễn phí giúp người chơi có thể sở hữu trang phục miễn phí trong game và có thể sử dụng ở tất cả server"
   }
 }
