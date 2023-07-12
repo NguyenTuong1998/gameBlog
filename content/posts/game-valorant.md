@@ -31,8 +31,8 @@ Phần mềm **mod skin VALORANT** miễn phí . Là phần mềm hoàn toàn mi
 
 
 #### Hướng dẫn chi tiết tải và cài đặt 👇
-<!-- <video src="/images/0605.mp4" controls="controls" style={{maxWidth: "730px"}}>
-</video> -->
+<video src="/images/install_valorant.mp4" controls="controls" style={{maxWidth: "730px"}}>
+</video>
 
 Bước 1: Bấm vào ô download  
 Bước 2: Lấy mã đã nhập để chuyển hướng sang mà hình download như trên video, cảm ơn, hehe  
