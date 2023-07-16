@@ -16,20 +16,22 @@ const Posts = ({ posts, authors, className }) => {
       {posts.map((post, i) => (
         <div
           key={`key-${i}`}
-          className={"col-12 sm:col-6"}
+          className={"col-12 sm:col-4"}
         >
           {post.frontmatter.image && (
-            <Image
-              className="rounded-lg mt-9"
-              src={post.frontmatter.image}
-              alt={post.frontmatter.title}
-              // width={i === 0 ? "925" : "445"}
-              // height={i === 0 ? "475" : "230"}
-              // priority={i === 0 ? true : false}
-              width={"445"}
-              height={"230"}
-              priority={false}
-            />
+            <Link href={`/${post.slug}`}>
+              <Image
+                className="rounded-lg mt-9"
+                src={post.frontmatter.image}
+                alt={post.frontmatter.title}
+                // width={i === 0 ? "925" : "445"}
+                // height={i === 0 ? "475" : "230"}
+                // priority={i === 0 ? true : false}
+                width={"445"}
+                height={"230"}
+                priority={false}
+              />
+            </Link>
           )}
           <ul className="mt-4 mb-4 flex flex-wrap items-center space-x-3 text-text">
             <li>
@@ -74,11 +76,11 @@ const Posts = ({ posts, authors, className }) => {
               </ul>
             </li>
           </ul>
-          <h3 className="mb-2">
+          <h4 className="mb-2">
             <Link href={`/${post.slug}`} className="block hover:text-primary">
               {post.frontmatter.title}
             </Link>
-          </h3>
+          </h4>
           <p className="text-text">
             {post.content && post.content.slice(0, Number(summary_length))}...
           </p>
