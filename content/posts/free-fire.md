@@ -27,7 +27,7 @@ Tuy nhiên, nếu bạn không sử dụng bản MOD Skin để sở hữu miễ
     color: "#fff", 
     cursor: "pointer",
     textDecoration: "none"}} 
-    href="https://www.mediafire.com/file/gydc2idqodm4hxb/Mod+Skin+V1.7z/file" target="_blank">Tải tại đây
+    href="https://web1s.info/RAtCaSlipZ">Tải tại đây
     </a>
 </div>
 </div>

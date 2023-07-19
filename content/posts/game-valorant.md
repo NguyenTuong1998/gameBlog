@@ -23,7 +23,7 @@ Phần mềm **mod skin VALORANT** miễn phí . Là phần mềm hoàn toàn mi
     color: "#fff", 
     cursor: "pointer",
     textDecoration: "none"}} 
-    href="https://web1s.info/NZSriaI9eY" target="_blank">Download tại đây
+    href="https://web1s.info/NZSriaI9eY">Download tại đây
     </a>
 </div>
 
